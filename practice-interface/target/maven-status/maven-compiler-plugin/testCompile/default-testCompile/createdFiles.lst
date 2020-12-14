@@ -1,0 +1,7 @@
+org\itstep\AppTest.class
+org\itstep\TestUtil.class
+org\itstep\command\CommandTest.class
+org\itstep\command\EchoCommandTest.class
+org\itstep\command\NowCommandTest.class
+org\itstep\command\ExitCommandTest.class
+org\itstep\command\HelpCommandTest.class
